@@ -1,5 +1,5 @@
 # omniORB
-Free and robust high performance CORBA ORB for C++ and Python.
+Free, compliant and robust high performance CORBA Object Request Broker for C++ and Python.
 
-The official code repository is still hosted on SourceForge:
+The official repository is still hosted on SourceForge:
 https://sourceforge.net/projects/omniorb/
